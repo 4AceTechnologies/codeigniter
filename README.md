@@ -1,15 +1,16 @@
 Code Igniter
 ============
 
+@ Contributor: 4 Ace Technologies
+@ Email: info@4acetech.com
+@ Author Website: http://www.4acetech.com
+@ Copyright: License details can be reviewed from CodeIgniter site and source since this CodeIgniter version we offer is nothing but the same copy that is provided by Ellis Lab, except that we've combined Sparks and general things together with the version to save time setting up these things.
+
+# Introduction
 This is a CodeIgniter MVC Framework loaded with Sparks and general
 things to save time in Development. For example, theme,
 user login/logout/register functions, sparks etc is installed.
 
-License details can be reviewed from CodeIgniter site and source
-since this CodeIgniter version we offer is nothing but the same
-copy that is provided by Ellis Lab, except that we've combined
-Sparks and general things together with the version to save time
-setting up these things.
 http://ellislab.com/codeigniter
 
 # CodeIgniter Developer Guide:
